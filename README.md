@@ -1,3 +1,5 @@
+2026-07-21: Archiving this repository as no longer needed.
+
 # srophe-docker
 Docker image builder for the Srophe software. Based on the eXist-db Docker image [https://hub.docker.com/r/existdb/existdb]. 
 
